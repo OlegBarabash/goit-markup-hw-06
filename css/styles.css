@@ -738,6 +738,7 @@ img {
   width: 24px;
   height: 24px;
 
+  cursor: pointer;
   background: var(--accent);
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50px;
